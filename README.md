@@ -4,11 +4,11 @@ This repository contains various AI algorithms implemented across different data
 
 **Files Included:**
 
-1. Algorithm Comparison: A comparison of different machine learning algorithms applied to various datasets.
-2. Implementation of SVM: Implementation of Support Vector Machine (SVM) to classify data.
-3. Informed Search Algorithms: Implementation of search algorithms like A* and Greedy Search to solve pathfinding problems.
-4. K-Means in Mall Customer Dataset: Application of K-Means Clustering on a mall customer dataset to identify customer segments.
-5. Simple and Multiple Linear Regression: Implementation of Linear Regression techniques (Simple and Multiple) to predict continuous variables.
+- Algorithm Comparison: A comparison of different machine learning algorithms applied to various datasets.
+- Implementation of SVM: Implementation of Support Vector Machine (SVM) to classify data.
+- Informed Search Algorithms: Implementation of search algorithms like A* and Greedy Search to solve pathfinding problems.
+- K-Means in Mall Customer Dataset: Application of K-Means Clustering on a mall customer dataset to identify customer segments.
+- Simple and Multiple Linear Regression: Implementation of Linear Regression techniques (Simple and Multiple) to predict continuous variables.
 
 
 **Key Features**
